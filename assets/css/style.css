@@ -7334,3 +7334,8 @@ del {
 .switch-wrap {
     margin-bottom: 10px
 }
+
+.lit-paragraph {
+    text-align: justify;
+    margin-bottom: 1.5rem;
+}
